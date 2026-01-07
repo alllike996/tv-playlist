@@ -1,0 +1,343 @@
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV1
+http://vallest.uk/livehttpplay?channel_id=30001
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="📺央视频道",CCTV3
+http://vallest.uk/livehttpplay?channel_id=30002
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="📺央视频道",CCTV5
+http://vallest.uk/livehttpplay?channel_id=10107
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="📺央视频道",CCTV5
+http://vallest.uk/livehttpplay?channel_id=30003
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="📺央视频道",CCTV9
+http://vallest.uk/livehttpplay?channel_id=30005
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="CCTV10.png" group-title="📺央视频道",CCTV10
+http://vallest.uk/livehttpplay?channel_id=30006
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="📺央视频道",CCTV4K
+http://vallest.uk/livehttpplay?channel_id=30029
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
+http://vallest.uk/livehttpplay?channel_id=30010
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://vallest.uk/livehttpplay?channel_id=30007
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://vallest.uk/livehttpplay?channel_id=30009
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://vallest.uk/livehttpplay?channel_id=30011
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
+http://vallest.uk/livehttpplay?channel_id=30008
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://vallest.uk/livehttpplay?channel_id=30012
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
+http://108.181.20.197/livehttpplay?channel_id=20083
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="广东影视.png" group-title="📡卫视频道",广东影视
+http://108.181.20.197/livehttpplay?channel_id=20145
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="广东影视.png" group-title="📡卫视频道",广东影视
+http://108.181.20.197:34431/tpplay?channel_id=30009
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="广东影视.png" group-title="📡卫视频道",广东影视
+http://108.181.21.27:27347/livehttpplay?channel_id=20145
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="🇭🇰港澳频道",翡翠
+http://vallest.uk/livehttpplay?channel_id=30025
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="🇭🇰港澳频道",明珠
+http://vallest.uk/livehttpplay?channel_id=30026
+#EXTINF:-1 tvg-name="J2" tvg-logo="J2.png" group-title="🇭🇰港澳频道",J2
+http://vallest.uk/livehttpplay?channel_id=30023
+#EXTINF:-1 tvg-name="J3" tvg-logo="J3.png" group-title="🇭🇰港澳频道",J3
+http://vallest.uk/livehttpplay?channel_id=30030
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="无线新闻.png" group-title="🇭🇰港澳频道",无线新闻
+http://vallest.uk/livehttpplay?channel_id=20123
+#EXTINF:-1 tvg-name="VIU" tvg-logo="VIU.png" group-title="🇭🇰港澳频道",VIU
+http://vallest.uk/livehttpplay?channel_id=30032
+#EXTINF:-1 tvg-name="VIU6" tvg-logo="VIU6.png" group-title="🇭🇰港澳频道",VIU6
+http://vallest.uk/livehttpplay?channel_id=30033
+#EXTINF:-1 tvg-name="HOY" tvg-logo="HOY.png" group-title="🇭🇰港澳频道",HOY
+http://108.181.20.197/livehttpplay?channel_id=20191
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="🇭🇰港澳频道",RTHK32
+http://vallest.uk/livehttpplay?channel_id=30028
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="🇭🇰港澳频道",RTHK32
+http://vallest.uk/livehttpplay?channel_id=30066
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="🇭🇰港澳频道",RTHK32
+http://vallest.uk/livehttpplay?channel_id=30067
+#EXTINF:-1 tvg-name="Now News" tvg-logo="NowNews.png" group-title="🇭🇰港澳频道",Now News
+http://108.181.20.197/livehttpplay?channel_id=20043
+#EXTINF:-1 tvg-name="Now News" tvg-logo="NowNews.png" group-title="🇭🇰港澳频道",Now News
+http://108.181.21.27:27347/livehttpplay?channel_id=20043
+#EXTINF:-1 tvg-name="Now" tvg-logo="Now.png" group-title="🇭🇰港澳频道",Now
+http://108.181.20.197/livehttpplay?channel_id=20041
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="🇭🇰港澳频道",凤凰中文
+http://108.181.20.197/livehttpplay?channel_id=20065
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="🇭🇰港澳频道",凤凰中文
+http://108.181.20.197/livehttpplay?channel_id=30014
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="🇭🇰港澳频道",凤凰资讯
+http://108.181.20.197/livehttpplay?channel_id=20066
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="🇭🇰港澳频道",凤凰资讯
+http://108.181.20.197/livehttpplay?channel_id=30015
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="🇭🇰港澳频道",凤凰香港
+http://108.181.20.197/livehttpplay?channel_id=20067
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="🇭🇰港澳频道",凤凰香港
+http://108.181.20.197/livehttpplay?channel_id=30016
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="🇭🇰港澳频道",凤凰香港
+http://108.181.20.197:34643/tpplay?channel_id=30009
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="🇭🇰港澳频道",凤凰香港
+http://108.181.21.27:27347/livehttpplay?channel_id=20067
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="🇭🇰港澳频道",凤凰香港
+http://108.181.21.27:27347/livehttpplay?channel_id=30016
+#EXTINF:-1 tvg-name="My TV" tvg-logo="MyTV.png" group-title="🇭🇰港澳频道",My TV
+http://hkenlive.uk/livehttpplay?channel_id=13020
+#EXTINF:-1 tvg-name="My TV" tvg-logo="MyTV.png" group-title="🇭🇰港澳频道",My TV
+http://hkenlive.uk/livehttpplay?channel_id=13021
+#EXTINF:-1 tvg-name="My TV" tvg-logo="MyTV.png" group-title="🇭🇰港澳频道",My TV
+http://hkenlive.uk/livehttpplay?channel_id=13022
+#EXTINF:-1 tvg-name="My TV" tvg-logo="MyTV.png" group-title="🇭🇰港澳频道",My TV
+http://hkenlive.uk/livehttpplay?channel_id=13023
+#EXTINF:-1 tvg-name="My TV" tvg-logo="MyTV.png" group-title="🇭🇰港澳频道",My TV
+http://hkenlive.uk/livehttpplay?channel_id=13026
+#EXTINF:-1 tvg-name="My TV" tvg-logo="MyTV.png" group-title="🇭🇰港澳频道",My TV
+http://hkenlive.uk/livehttpplay?channel_id=13027
+
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="TVBS.png" group-title="🇹🇼台湾频道",TVBS
+http://108.181.20.197/livehttpplay?channel_id=20085
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="TVBS.png" group-title="🇹🇼台湾频道",TVBS
+http://108.181.21.27:27347/livehttpplay?channel_id=20085
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="TVBS欢乐.png" group-title="🇹🇼台湾频道",TVBS欢乐
+http://108.181.20.197/livehttpplay?channel_id=20105
+#EXTINF:-1 tvg-name="TVBS精彩" tvg-logo="TVBS精彩.png" group-title="🇹🇼台湾频道",TVBS精彩
+http://108.181.20.197/livehttpplay?channel_id=20136
+#EXTINF:-1 tvg-name="TVBS精彩" tvg-logo="TVBS精彩.png" group-title="🇹🇼台湾频道",TVBS精彩
+http://108.181.21.27:27347/livehttpplay?channel_id=20136
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="中天新闻.png" group-title="🇹🇼台湾频道",中天新闻
+http://vallest.uk/livehttpplay?channel_id=20163
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="中天综合.png" group-title="🇹🇼台湾频道",中天综合
+http://108.181.21.27:27347/livehttpplay?channel_id=20064
+#EXTINF:-1 tvg-name="中视" tvg-logo="中视.png" group-title="🇹🇼台湾频道",中视
+http://108.181.20.197/livehttpplay?channel_id=20088
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="🇹🇼台湾频道",华视新闻
+http://108.181.20.197/livehttpplay?channel_id=20086
+#EXTINF:-1 tvg-name="公视" tvg-logo="公视.png" group-title="🇹🇼台湾频道",公视
+http://108.181.20.197/livehttpplay?channel_id=20087
+#EXTINF:-1 tvg-name="公视" tvg-logo="公视.png" group-title="🇹🇼台湾频道",公视
+http://108.181.21.27:27347/livehttpplay?channel_id=20087
+#EXTINF:-1 tvg-name="台视" tvg-logo="台视.png" group-title="🇹🇼台湾频道",台视
+http://108.181.20.197/livehttpplay?channel_id=20076
+#EXTINF:-1 tvg-name="民视" tvg-logo="民视.png" group-title="🇹🇼台湾频道",民视
+http://108.181.20.197/livehttpplay?channel_id=20074
+#EXTINF:-1 tvg-name="民视" tvg-logo="民视.png" group-title="🇹🇼台湾频道",民视
+http://108.181.20.197:34225/tpplay?channel_id=30009
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="🇹🇼台湾频道",民视新闻
+http://108.181.20.197/livehttpplay?channel_id=20097
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="🇹🇼台湾频道",民视新闻
+http://108.181.21.27:27347/livehttpplay?channel_id=20097
+#EXTINF:-1 tvg-name="东森Live" tvg-logo="东森.png" group-title="🇹🇼台湾频道",东森Live
+http://108.181.20.197/livehttpplay?channel_id=20082
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="东森财经.png" group-title="🇹🇼台湾频道",东森财经
+http://108.181.21.27:27347/livehttpplay?channel_id=20078
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="东森财经.png" group-title="🇹🇼台湾频道",东森财经新闻
+http://108.181.20.197/livehttpplay?channel_id=20078
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="东森戏剧.png" group-title="🇹🇼台湾频道",东森戏剧
+http://108.181.20.197/livehttpplay?channel_id=20072
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="三立都会.png" group-title="🇹🇼台湾频道",三立都会
+http://108.181.20.197/livehttpplay?channel_id=20100
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="三立台湾.png" group-title="🇹🇼台湾频道",三立台湾
+http://108.181.20.197:34335/tpplay?channel_id=30009
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="三立戏剧.png" group-title="🇹🇼台湾频道",三立戏剧
+http://108.181.20.197/livehttpplay?channel_id=10125
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="三立戏剧.png" group-title="🇹🇼台湾频道",三立戏剧
+http://108.181.21.27:27347/livehttpplay?channel_id=10125
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="三立新闻.png" group-title="🇹🇼台湾频道",三立新闻
+http://108.181.20.197/livehttpplay?channel_id=10126
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="三立综合.png" group-title="🇹🇼台湾频道",三立综合
+http://108.181.21.27:27347/livehttpplay?channel_id=12038
+#EXTINF:-1 tvg-name="八大第1" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大第1
+http://108.181.20.197/livehttpplay?channel_id=20073
+#EXTINF:-1 tvg-name="八大第1" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大第1
+http://108.181.21.27:27347/livehttpplay?channel_id=20073
+#EXTINF:-1 tvg-name="八大精彩" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大精彩
+http://108.181.20.197/livehttpplay?channel_id=20052
+#EXTINF:-1 tvg-name="八大精彩" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大精彩
+http://108.181.21.27:27347/livehttpplay?channel_id=20052
+#EXTINF:-1 tvg-name="八大娱乐" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大娱乐
+http://108.181.20.197/livehttpplay?channel_id=20071
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大综合
+http://108.181.20.197/livehttpplay?channel_id=20068
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="八大.png" group-title="🇹🇼台湾频道",八大综合
+http://108.181.21.27:27347/livehttpplay?channel_id=20068
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="纬来体育.png" group-title="🇹🇼台湾频道",纬来体育
+http://108.181.21.27:27347/livehttpplay?channel_id=20120
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🇹🇼台湾频道",纬来育乐
+http://108.181.20.197/livehttpplay?channel_id=20202
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🇹🇼台湾频道",纬来育乐
+http://108.181.21.27:27347/livehttpplay?channel_id=20202
+#EXTINF:-1 tvg-name="ELTA1" tvg-logo="ELTA.png" group-title="🇹🇼台湾频道",ELTA1
+http://108.181.20.197/livehttpplay?channel_id=20129
+#EXTINF:-1 tvg-name="ELTA1" tvg-logo="ELTA.png" group-title="🇹🇼台湾频道",ELTA1
+http://108.181.21.27:27347/livehttpplay?channel_id=20129
+#EXTINF:-1 tvg-name="ELTA2" tvg-logo="ELTA.png" group-title="🇹🇼台湾频道",ELTA2
+http://108.181.20.197/livehttpplay?channel_id=20107
+#EXTINF:-1 tvg-name="大爱" tvg-logo="大爱.png" group-title="🇹🇼台湾频道",大爱
+http://108.181.20.197/livehttpplay?channel_id=20032
+#EXTINF:-1 tvg-name="大爱" tvg-logo="大爱.png" group-title="🇹🇼台湾频道",大爱
+http://108.181.20.197:34147/tpplay?channel_id=30009
+#EXTINF:-1 tvg-name="大爱" tvg-logo="大爱.png" group-title="🇹🇼台湾频道",大爱
+http://108.181.21.27:27347/livehttpplay?channel_id=20032
+#EXTINF:-1 tvg-name="壹新闻" tvg-logo="壹新闻.png" group-title="🇹🇼台湾频道",壹新闻
+http://108.181.20.197/livehttpplay?channel_id=20028
+#EXTINF:-1 tvg-name="壹新闻" tvg-logo="壹新闻.png" group-title="🇹🇼台湾频道",壹新闻
+http://108.181.21.27:27347/livehttpplay?channel_id=20028
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="年代新闻.png" group-title="🇹🇼台湾频道",年代新闻
+http://108.181.20.197/livehttpplay?channel_id=20033
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="年代新闻.png" group-title="🇹🇼台湾频道",年代新闻
+http://108.181.21.27:27347/livehttpplay?channel_id=20033
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="非凡新闻.png" group-title="🇹🇼台湾频道",非凡新闻
+http://108.181.20.197/livehttpplay?channel_id=20034
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="非凡新闻.png" group-title="🇹🇼台湾频道",非凡新闻
+http://108.181.21.27:27347/livehttpplay?channel_id=20034
+#EXTINF:-1 tvg-name="国兴" tvg-logo="国兴.png" group-title="🇹🇼台湾频道",国兴
+http://108.181.20.197/livehttpplay?channel_id=20164
+#EXTINF:-1 tvg-name="靖天欢乐" tvg-logo="靖天.png" group-title="🇹🇼台湾频道",靖天欢乐
+http://108.181.20.197/livehttpplay?channel_id=30021
+#EXTINF:-1 tvg-name="靖天娱乐" tvg-logo="靖天.png" group-title="🇹🇼台湾频道",靖天娱乐
+http://108.181.20.197/livehttpplay?channel_id=30020
+#EXTINF:-1 tvg-name="靖天娱乐" tvg-logo="靖天.png" group-title="🇹🇼台湾频道",靖天娱乐
+http://108.181.20.197:34531/tpplay?channel_id=30009
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="HBO.png" group-title="🎬电影影视",HBO
+http://108.181.20.197/livehttpplay?channel_id=20093
+#EXTINF:-1 tvg-name="HBO" tvg-logo="HBO.png" group-title="🎬电影影视",HBO
+http://108.181.20.197/livehttpplay?channel_id=20314
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="HBOFamily.png" group-title="🎬电影影视",HBO Family
+http://108.181.20.197/livehttpplay?channel_id=20092
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="HBOHits.png" group-title="🎬电影影视",HBO Hits
+http://108.181.20.197/livehttpplay?channel_id=20091
+#EXTINF:-1 tvg-name="Cinema" tvg-logo="Cinema.png" group-title="🎬电影影视",Cinema
+http://108.181.21.27:27347/livehttpplay?channel_id=20047
+#EXTINF:-1 tvg-name="Conema" tvg-logo="Cinema.png" group-title="🎬电影影视",Conema
+http://108.181.20.197/livehttpplay?channel_id=20047
+#EXTINF:-1 tvg-name="Catchplay" tvg-logo="Catchplay.png" group-title="🎬电影影视",Catchplay
+http://108.181.20.197/livehttpplay?channel_id=10127
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="🎬电影影视",TVB星河
+http://108.181.20.197/livehttpplay?channel_id=20070
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="东森电影.png" group-title="🎬电影影视",东森电影
+http://108.181.20.197/livehttpplay?channel_id=20077
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="东森洋片.png" group-title="🎬电影影视",东森洋片
+http://108.181.20.197/livehttpplay?channel_id=20080
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="龙华.png" group-title="🎬电影影视",龙华电影
+http://108.181.20.197/livehttpplay?channel_id=10129
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="龙华.png" group-title="🎬电影影视",龙华电影
+http://108.181.21.27:27347/livehttpplay?channel_id=10129
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="龙华.png" group-title="🎬电影影视",龙华洋片
+http://108.181.20.197/livehttpplay?channel_id=20090
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="龙华.png" group-title="🎬电影影视",龙华洋片
+http://108.181.21.27:27347/livehttpplay?channel_id=20090
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="龙华.png" group-title="🎬电影影视",龙华偶像
+http://108.181.20.197/livehttpplay?channel_id=20023
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="龙华.png" group-title="🎬电影影视",龙华日韩
+http://108.181.20.197/livehttpplay?channel_id=20081
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="龙祥.png" group-title="🎬电影影视",龙祥时代
+http://108.181.20.197/livehttpplay?channel_id=20114
+#EXTINF:-1 tvg-name="天映电影" tvg-logo="天映.png" group-title="🎬电影影视",天映电影
+http://108.181.20.197/livehttpplay?channel_id=10130
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="天映.png" group-title="🎬电影影视",天映经典
+http://108.181.20.197/livehttpplay?channel_id=20063
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="美亚.png" group-title="🎬电影影视",美亚电影
+http://108.181.20.197/livehttpplay?channel_id=20197
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="美亚.png" group-title="🎬电影影视",美亚电影
+http://108.181.21.27:27347/livehttpplay?channel_id=20197
+#EXTINF:-1 tvg-name="壹电影" tvg-logo="壹电影.png" group-title="🎬电影影视",壹电影
+http://108.181.20.197/livehttpplay?channel_id=20108
+#EXTINF:-1 tvg-name="壹电影" tvg-logo="壹电影.png" group-title="🎬电影影视",壹电影
+http://108.181.21.27:27347/livehttpplay?channel_id=20108
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="Hollywood.png" group-title="🎬电影影视",好莱坞电影
+http://108.181.20.197/livehttpplay?channel_id=20062
+#EXTINF:-1 tvg-name="Now爆谷" tvg-logo="Now爆谷.png" group-title="🎬电影影视",Now爆谷
+http://hkenlive.uk/livehttpplay?channel_id=13002
+#EXTINF:-1 tvg-name="Now星影" tvg-logo="Now星影.png" group-title="🎬电影影视",Now星影
+http://hkenlive.uk/livehttpplay?channel_id=13003
+
+#EXTINF:-1 tvg-name="Espn" tvg-logo="ESPN.png" group-title="🏆体育竞技",Espn
+http://hkenlive.uk/livehttpplay?channel_id=13030
+#EXTINF:-1 tvg-name="Espn" tvg-logo="ESPN.png" group-title="🏆体育竞技",Espn
+http://hkenlive.uk/livehttpplay?channel_id=13050
+#EXTINF:-1 tvg-name="Espn+" tvg-logo="ESPN.png" group-title="🏆体育竞技",Espn+
+http://hkenlive.uk/livehttpplay?channel_id=13060
+#EXTINF:-1 tvg-name="Fox" tvg-logo="FOX.png" group-title="🏆体育竞技",Fox
+http://hkenlive.uk/livehttpplay?channel_id=13033
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="NowSports.png" group-title="🏆体育竞技",Now Sports
+http://hkenlive.uk/livehttpplay?channel_id=13008
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="NowSports.png" group-title="🏆体育竞技",Now Sports
+http://hkenlive.uk/livehttpplay?channel_id=13009
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="NowSports.png" group-title="🏆体育竞技",Now Sports
+http://hkenlive.uk/livehttpplay?channel_id=13010
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="NowSports.png" group-title="🏆体育竞技",Now Sports
+http://hkenlive.uk/livehttpplay?channel_id=13011
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="NowSports.png" group-title="🏆体育竞技",Now Sports
+http://hkenlive.uk/livehttpplay?channel_id=13012
+#EXTINF:-1 tvg-name="Now英超粤语" tvg-logo="Now.png" group-title="🏆体育竞技",Now英超粤语
+http://hkenlive.uk/livehttpplay?channel_id=13007
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="广东体育.png" group-title="🏆体育竞技",广东体育
+http://vallest.uk/livehttpplay?channel_id=12028
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="广东体育.png" group-title="🏆体育竞技",广东体育
+http://vallest.uk/livehttpplay?channel_id=30031
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="五星体育.png" group-title="🏆体育竞技",五星体育
+http://108.181.20.197/livehttpplay?channel_id=20060
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="五星体育.png" group-title="🏆体育竞技",五星体育
+http://108.181.21.27:27347/livehttpplay?channel_id=20060
+#EXTINF:-1 tvg-name="ELEVEN1" tvg-logo="ELEVEN.png" group-title="🏆体育竞技",ELEVEN1
+http://108.181.20.197/livehttpplay?channel_id=10104
+#EXTINF:-1 tvg-name="ELEVEN2" tvg-logo="ELEVEN.png" group-title="🏆体育竞技",ELEVEN2
+http://108.181.20.197/livehttpplay?channel_id=10105
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯高球
+http://108.181.21.27:27347/livehttpplay?channel_id=20103
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯高球1
+http://108.181.20.197/livehttpplay?channel_id=20103
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯高球2
+http://108.181.20.197/livehttpplay?channel_id=20117
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯高球2
+http://108.181.21.27:27347/livehttpplay?channel_id=20117
+#EXTINF:-1 tvg-name="博斯运动" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯运动
+http://108.181.20.197/livehttpplay?channel_id=10131
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯运动2
+http://108.181.20.197/livehttpplay?channel_id=20311
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="博斯.png" group-title="🏆体育竞技",博斯运动2
+http://108.181.21.27:27347/livehttpplay?channel_id=20311
+#EXTINF:-1 tvg-name="NHL" tvg-logo="NHL.png" group-title="🏆体育竞技",NHL
+http://hkenlive.uk/livehttpplay?channel_id=13045
+#EXTINF:-1 tvg-name="网球" tvg-logo="Tennis.png" group-title="🏆体育竞技",网球
+http://hkenlive.uk/livehttpplay?channel_id=13038
+#EXTINF:-1 tvg-name="足球" tvg-logo="Soccer.png" group-title="🏆体育竞技",足球
+http://hkenlive.uk/livehttpplay?channel_id=13040
+#EXTINF:-1 tvg-name="Sports" tvg-logo="Sports.png" group-title="🏆体育竞技",Sports
+http://hkenlive.uk/livehttpplay?channel_id=13031
+#EXTINF:-1 tvg-name="体育" tvg-logo="Sports.png" group-title="🏆体育竞技",体育
+http://108.181.20.197:34093/tpplay?channel_id=30009
+
+#EXTINF:-1 tvg-name="BBC" tvg-logo="BBC.png" group-title="🌍国际频道",BBC
+http://108.181.21.27:27347/livehttpplay?channel_id=20044
+#EXTINF:-1 tvg-name="CNN" tvg-logo="CNN.png" group-title="🌍国际频道",CNN
+http://108.181.21.27:27347/livehttpplay?channel_id=10123
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="Discovery.png" group-title="🌍国际频道",Discovery
+http://108.181.20.197/livehttpplay?channel_id=20113
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="AnimalPlanet.png" group-title="🌍国际频道",Animal Planet
+http://hkenlive.uk/livehttpplay?channel_id=13041
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="AnimalPlanet.png" group-title="🌍国际频道",动物星球
+http://108.181.20.197/livehttpplay?channel_id=20106
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="AnimalPlanet.png" group-title="🌍国际频道",动物星球
+http://108.181.21.27:27347/livehttpplay?channel_id=20106
+#EXTINF:-1 tvg-name="探索" tvg-logo="Discovery.png" group-title="🌍国际频道",探索
+http://108.181.20.197/livehttpplay?channel_id=20110
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="CN.png" group-title="🌍国际频道",CN卡通
+http://108.181.20.197/livehttpplay?channel_id=20048
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="CN.png" group-title="🌍国际频道",CN卡通
+http://108.181.21.27:27347/livehttpplay?channel_id=20048
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="Nickelodeon.png" group-title="🌍国际频道",Nickelodeon
+http://108.181.20.197/livehttpplay?channel_id=20089
+#EXTINF:-1 tvg-name="尼克卡通" tvg-logo="Nickelodeon.png" group-title="🌍国际频道",尼克卡通
+http://108.181.21.27:27347/livehttpplay?channel_id=20089
+
+#EXTINF:-1 tvg-name="Abc" tvg-logo="Abc.png" group-title="其他频道",Abc
+http://hkenlive.uk/livehttpplay?channel_id=13001
+#EXTINF:-1 tvg-name="Amc" tvg-logo="Amc.png" group-title="其他频道",Amc
+http://108.181.20.197:34861/tpplay?channel_id=30009
+#EXTINF:-1 tvg-name="美国中文" tvg-logo="美国中文.png" group-title="其他频道",美国中文
+http://108.181.20.197/livehttpplay?channel_id=10128
+#EXTINF:-1 tvg-name="美食" tvg-logo="美食.png" group-title="其他频道",美食
+http://vallest.uk/livehttpplay?channel_id=30024
